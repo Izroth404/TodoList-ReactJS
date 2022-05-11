@@ -9,4 +9,4 @@ npm create vite@latest
 npm i
 ```
 
-<img src="https://vitejs.dev/logo.svg"> 
+<img src="https://vitejs.dev/logo.svg" height=20px width=20px> 
