@@ -26,8 +26,7 @@ npm i
 npm run dev
 ```
 
-# Deployed Using : [Netlify](https://izroth-todolist.netlify.app/)
-<img sr="https://mma.prnewswire.com/media/1099201/Netlify_Logo.jpg?p=facebook" height=25px width=25px>
+# Deployed Using : [Netlify](https://izroth-todolist.netlify.app/) <img sr="https://www.netlify.com/v3/img/components/full-logo-dark.png" height=25px width=25px>
 
 To create the build file use command:
 ```
