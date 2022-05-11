@@ -26,7 +26,7 @@ npm i
 npm run dev
 ```
 
-# Deployed Using : [Netlify]((https://izroth-todolist.netlify.app/))
+# Deployed Using : [Netlify](https://izroth-todolist.netlify.app/)
 <img sr="https://mma.prnewswire.com/media/1099201/Netlify_Logo.jpg?p=facebook" height=25px width=25px>
 
 
