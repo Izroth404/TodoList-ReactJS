@@ -1,11 +1,11 @@
 ﻿# TodoList-ReactJS 
 
-**Created Using**
+**Tech Stacks**
+Created Using Vite which fires up the react server within seconds
 
 <img src="https://vitejs.dev/logo.svg" height=50px width=50px>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height=50px width=50px>
 
- 
-Created Using Vite which fires up the react server within seconds
+
 
 Command to fire up Vite and to install the needed dependency</br>
 
@@ -30,6 +30,5 @@ npm run dev
 <img sr="https://mma.prnewswire.com/media/1099201/Netlify_Logo.jpg?p=facebook" height=25px width=25px>
 
 
-
- 
+#Final OutPut
 <img src="https://github.com/Izroth404/TodoList-ReactJS/blob/main/src/screenshoot.png" alt="Final Output"/>
