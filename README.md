@@ -1,5 +1,5 @@
-﻿# TodoList-ReactJS
-
+﻿# TodoList-ReactJS (<img src="https://vitejs.dev/logo.svg" height=50px width=50px>)
+ 
 Created Using Vite which fires up the react server within seconds
 
 Command to fire up Vite and to install the needed dependency</br>
