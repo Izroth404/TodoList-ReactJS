@@ -3,7 +3,7 @@
 **Tech Stacks**
 Created Using Vite which fires up the react server within seconds
 
-<img src="https://vitejs.dev/logo.svg" height=50px width=50px>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height=50px width=50px>
+<img src="https://vitejs.dev/logo.svg" >  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" >
 
 
 
@@ -26,7 +26,7 @@ npm i
 npm run dev
 ```
 
-# Deployed Using : [Netlify](https://izroth-todolist.netlify.app/) <img src="https://images.prismic.io/boringowl/62b93e32-dfc5-4054-9534-003b15223bf6_Netlify+.jpeg?auto=compress,format" height=35px width=35px>
+# Deployed Using : [Netlify](https://izroth-todolist.netlify.app/) <img src="https://images.prismic.io/boringowl/62b93e32-dfc5-4054-9534-003b15223bf6_Netlify+.jpeg?auto=compress,format" height=50px width=50px>
 
 To create the build file use command:
 ```
