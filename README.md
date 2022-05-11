@@ -1,9 +1,9 @@
-﻿# **TodoList-ReactJS **
+﻿# TodoList-ReactJS 
 
 **Tech Stacks**
 Created Using _Vite_ which fires up the react server within seconds
 
-<img src="https://vitejs.dev/logo.svg" height=75px width=75px>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height=75px width=80px>\
+<img src="https://vitejs.dev/logo.svg" height=75px width=75px>              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height=75px width=80px>\
 <br />
 <br />
 <br />
