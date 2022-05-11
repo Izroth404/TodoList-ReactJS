@@ -1,7 +1,6 @@
 ﻿# TodoList-ReactJS 
 
-
-﻿## Created Using
+# Created Using
 
 <img src="https://vitejs.dev/logo.svg" height=50px width=50px>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height=50px width=50px>
 
