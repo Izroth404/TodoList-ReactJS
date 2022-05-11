@@ -26,8 +26,7 @@ npm i
 npm run dev
 ```
 
-![This Project is Deployed using <img sr="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.unixtutorial.org%2Fstaging-environment-with-netlify%2F&psig=AOvVaw2ipWZ78jb1fNEsKhLvMh8i&ust=1652377692486000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLiZguCA2PcCFQAAAAAdAAAAABAy" height=25px width=25px>](https://izroth-todolist.netlify.app/)
-</br>
-</br>
+[This Project is Deployed using <img sr="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.unixtutorial.org%2Fstaging-environment-with-netlify%2F&psig=AOvVaw2ipWZ78jb1fNEsKhLvMh8i&ust=1652377692486000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLiZguCA2PcCFQAAAAAdAAAAABAy" height=25px width=25px>](https://izroth-todolist.netlify.app/)
+ </br>
  
-![Final Output](https://github.com/Izroth404/TodoList-ReactJS/blob/main/src/screenshoot.png "Final Output")
+![Final Output](https://github.com/Izroth404/TodoList-ReactJS/blob/main/src/screenshoot.png)
