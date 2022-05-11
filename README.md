@@ -3,7 +3,7 @@
 **Tech Stacks**
 Created Using _Vite_ which fires up the react server within seconds
 <p align="center">
-<img src="https://vitejs.dev/logo.svg" height=150px width=150px>              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height=150px width=200px>
+<img src="https://vitejs.dev/logo.svg" height=150px width=150px>         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Plus_symbol.svg/1200px-Plus_symbol.svg.png" height=150px width=200px>     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height=150px width=200px>
  </p>
 <br />
 <br />
