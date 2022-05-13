@@ -33,10 +33,10 @@ npm run dev
 <br />
 <br />
 
-# Deployed Using : 
+# Deployed Using : 📦
           Click Here to view the project!
 
-                          [![Deploy](https://www.netlify.com/img/deploy/button.svg)]((https://izroth-todolist.netlify.app/)
+                          [![Deploy](https://www.netlify.com/img/deploy/button.svg)](https://izroth-todolist.netlify.app/)
                           
 <!--Useless-->
 <!-- [Netlify](https://izroth-todolist.netlify.app/) <img src="https://images.prismic.io/boringowl/62b93e32-dfc5-4054-9534-003b15223bf6_Netlify+.jpeg?auto=compress,format" height=100px width=100px> -->
