@@ -1,4 +1,4 @@
-﻿# TodoList-ReactJS 
+﻿# TodoList-ReactJS ⚙⚙
 
 **Tech Stacks**
 Created Using _Vite_ which fires up the react server within seconds
@@ -20,7 +20,7 @@ npm run dev
 <br />
 <br />
 
-# **Prerequisites** To run on your _Local Machine_
+# **Prerequisites** To run on your _Local Machine_  🤔
 Just create a folder opem a terminal and type in 
 
 ```
@@ -34,9 +34,9 @@ npm run dev
 <br />
 
 # Deployed Using : 📦
-          Click Here to view the project!
-
-                          [![Deploy](https://www.netlify.com/img/deploy/button.svg)](https://izroth-todolist.netlify.app/)
+Click Here to view the project!
+                          
+                          [![Deploy](https://www.netlify.com/img/deploy/button.svg)](https://izroth-todolist.netlify.app/)
                           
 <!--Useless-->
 <!-- [Netlify](https://izroth-todolist.netlify.app/) <img src="https://images.prismic.io/boringowl/62b93e32-dfc5-4054-9534-003b15223bf6_Netlify+.jpeg?auto=compress,format" height=100px width=100px> -->
@@ -52,3 +52,10 @@ npm run build
 
 # **Final OutPut**
 <img src="https://github.com/Izroth404/TodoList-ReactJS/blob/main/src/screenshoot.png" alt="Final Output"/>
+
+
+<br / >
+<br / >
+<br / >
+                     
+                          Show some Love by giving a 🌟 to the repo. Much obliged🤩🤩
