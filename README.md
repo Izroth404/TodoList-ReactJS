@@ -54,8 +54,10 @@ npm run build
 <img src="https://github.com/Izroth404/TodoList-ReactJS/blob/main/src/screenshoot.png" alt="Final Output"/>
 
 
-<br / >
-<br / >
-<br / >
+<br />
+<br />
+<br />
                      
-                          Show some Love by giving a 🌟 to the repo. Much obliged🤩🤩
+ <p align="center">
+ **Show some Love by giving a 🌟 to the repo. Much obliged🤩🤩**  
+</p> 
