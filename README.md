@@ -58,7 +58,6 @@ npm run build
 <br />
 <br />
                      
- **<p align="center">
- Show some Love by giving a 🌟 to the repo. Much obliged🤩🤩
+ <p align="center">
+ Show some 💗💗 by giving a 🌟 to the repo. Much obliged🤩🤩
 </p> 
-**
